@@ -1,5 +1,9 @@
 # Hi there, Aishwarya here 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Data+Engineering;Data+Science;Data+Analysis+and+Vizualization)](https://git.io/typing-svg)
+
+
+
 <!--
 **adduriAishwarya/adduriAishwarya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +20,7 @@ Here are some ideas to get you started:
 -->
 🌟 "Exploring the Boundaries of Tech and Wellness 🚀🌿"
 
-🎓 Master's in Computer Information Systems @Northeastern 🐾 | 🎓 BTech in Electronics & Communication @VIT, Vellore 📡
+🎓 Master's in Computer Information Systems @ Northeastern 🐾 | 🎓 BTech in Electronics & Communication @VIT, Vellore 📡
 
 📊 Passionate about Unraveling Data's Secrets & Transforming Business Landscapes 📈🔍
 
@@ -52,5 +56,3 @@ Ping me on LinkedIn @ 'Lakshmi GayatriAishwarya Adduri'
 [![GitHub Streak](https://streak-stats.demolab.com/?user=adduriAishwarya)](https://git.io/streak-stats)
 
 
-
-#TechEnthusiast #DataScience #DataEngineering #DataAnalysis #NaturePhotography #HealthyLiving #WritingCommunity
