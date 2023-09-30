@@ -49,7 +49,7 @@ Ping me on LinkedIn @ 'Lakshmi GayatriAishwarya Adduri'
 ## 🛠️My Skills 🔧
 
 
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=adduriAishwarya)](https://git.io/streak-stats)
 
 
 
