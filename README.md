@@ -52,6 +52,17 @@ Ping me on LinkedIn @ 'Lakshmi GayatriAishwarya Adduri'
 
 ## 🛠️My Skills 🔧
 
+##### Tools & Technologies: Tableau, Power BI, Informatica, Apache Spark, Hive, Hadoop, ETL, MATLAB, Microsoft Excel, Talend	
+
+##### Programming: Python (Pandas, NumPy, Scikit-learn, Matplotlib, Scipy), R, Advanced Java, JavaScript, C, Linux
+
+##### Databases: MySQL, SQL, PL/SQL, Microsoft SQL, MONGO DB, Snowflake, NumPy, Pandas, Excel, Statistical Modelling	
+
+##### Workflow & Automation:   Alteryx, GIT, Airflow, Azure, Oracle OIC, E/R Studio, Azure ADF
+
+##### Interests:  Data Analytics, Data Visualization, Artificial Intelligence, Optimizing Data Pipelines, Machine Learning
+
+
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=adduriAishwarya)](https://git.io/streak-stats)
 
