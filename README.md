@@ -1,6 +1,6 @@
 # Hi there, Aishwarya here 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Data+Engineering;Data+Science;Data+Analysis+and+Vizualization)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Data+Engineering;Data+Science;Data+Analysis+and+Vizualization;Software+Development)](https://git.io/typing-svg)
 
 
 
