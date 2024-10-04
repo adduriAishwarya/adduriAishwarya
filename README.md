@@ -44,8 +44,6 @@ Here are some ideas to get you started:
 ### 🙋🏽‍♀️ How to reach me: 
 Ping me on LinkedIn @ 'Lakshmi GayatriAishwarya Adduri'
 
-📞: 6177174118
-
 📧: adduri.L@northeastern.edu
 
 ⌛Find me coding here  [Leetcode/AishwaryaAdduri](https://leetcode.com/aishwarya_adduri/)
